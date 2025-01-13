@@ -31,5 +31,12 @@ Do pliku `App.tsx` dodajemy komponent
 #### Po połączeniu portfela.
 ![interface](screenshot/screen-shot-01.png)
 
+## Jak to działa
+
+Prezentacja komponentu udostępniona w YouTube
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/vWN0ias7FZk)
+
+
 
 
