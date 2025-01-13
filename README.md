@@ -26,10 +26,10 @@ Do pliku `App.tsx` dodajemy komponent
 ### interface aplikacji
 
 #### Przed połączeniem portfela.
-![Opis alternatywny](screenshot/screen-shot-00.png)
+![interface](screenshot/screen-shot-00.png)
 
 #### Po połączeniu portfela.
-![Opis alternatywny](screenshot/screen-shot-01.png)
+![interface](screenshot/screen-shot-01.png)
 
 
 
